@@ -1,0 +1,27 @@
+Result Description:
+  Initial State:
+         Initial angle of pole           0.00
+         Initial angular speed of pole   0.00
+         Initial position of cart        0.00
+         Initial speed of cart           0.00
+  Failure Criterion:
+         Failure angle     12.0 (degree)
+         Out of bound      2.4 (meter)
+  Training Parameters:
+         Total number of runs                 5 
+         Maximum trial numbers in one run     1000 
+         Time in one trial                    120 (second)
+         Step length                          0.020 (second)
+  Running Pocess:
+         Run      Trial
+          1        7
+          2        2
+          3        5
+          4        7
+          5        3
+  Running Result:
+         Total number of runs                            5
+         Number of successful runs                       5
+         Percentage of successful runs                   100.0%
+         Average number of trials to success             4.8
+         Standard deviation of trial number to success   2.3
